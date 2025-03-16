@@ -11,8 +11,8 @@ const mulish = Mulish({
 })
 
 export const metadata: Metadata = {
-  title: 'Seedstars IG',
-  description: 'Seedstars IG',
+  title: "Naya Jewelry",
+  description: 'Naya Jewelry',
 }
 
 export default function RootLayout({
