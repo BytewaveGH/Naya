@@ -11,7 +11,7 @@ const mulish = Mulish({
 })
 
 export const metadata: Metadata = {
-  title: "Naya Jewelry",
+  title: 'Naya Jewelry',
   description: 'Naya Jewelry',
 }
 
